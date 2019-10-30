@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SugarApp</string>
+    <string name="ingresar_nombres">Ingresar Nombres</string>
+    <string name="ingresar_correo_electronico">Ingresar Correo Electronico</string>
+    <string name="ingresar_password">Ingresar Contraseña</string>
+    <string name="guardar_registro">Guardar Registro</string>
+</resources>
